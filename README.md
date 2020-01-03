@@ -1,2 +1,36 @@
-# aws-exam-reading
-AWS Practitioner exam reading.
+##Recommended Papers to read for AWS Practitioner Cert.
+
+https://aws.amazon.com/vpc/
+https://aws.amazon.com/directconnect/
+https://aws.amazon.com/ec2/
+https://aws.amazon.com/autoscaling/
+https://aws.amazon.com/ec2/dedicated-...
+https://aws.amazon.com/ebs/
+https://aws.amazon.com/elasticbeanstalk/
+https://aws.amazon.com/elasticloadbal...
+https://aws.amazon.com/cloudfront/
+https://aws.amazon.com/route53/
+https://aws.amazon.com/shield/
+https://aws.amazon.com/waf/
+https://aws.amazon.com/s3/
+https://aws.amazon.com/snowball/
+https://aws.amazon.com/glacier/
+https://aws.amazon.com/rds/
+https://aws.amazon.com/rds/aurora/
+https://aws.amazon.com/dynamodb/
+https://aws.amazon.com/redshift/
+https://aws.amazon.com/dms/
+https://aws.amazon.com/emr/
+https://aws.amazon.com/cloudtrail/
+https://aws.amazon.com/elasticsearch-...
+https://aws.amazon.com/cloudwatch/
+https://aws.amazon.com/kinesis/data-f...
+https://aws.amazon.com/lambda/
+https://aws.amazon.com/cloudformation/
+https://aws.amazon.com/tco-calculator/
+https://aws.amazon.com/aws-cost-manag...
+https://aws.amazon.com/compliance/sha...
+https://aws.amazon.com/iam/
+https://aws.amazon.com/kms/
+https://aws.amazon.com/cognito/
+https://aws.amazon.com/premiumsupport...
